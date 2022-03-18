@@ -44,7 +44,7 @@ Please note simultaneous translation will not be provided for the Open Mic Confe
 
 飛び入りカンファレンスでは、同時通訳は提供されないことにご注意ください。
 
-*Quated from [ScalaMatsuri 2020 guide](https://blog-en.scalamatsuri.org/entry/2020/10/14/scalamatsuri-guide)*
+*Quated from [ScalaMatsuri 2022 guide](https://blog-en.scalamatsuri.org/entry/2022/03/17/132532)*
 *Quated from [ScalaMatsuri開催直前！](https://blog.scalamatsuri.org/entry/2022/03/16/155703)*
 
 # Issue labels:
