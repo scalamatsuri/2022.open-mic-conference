@@ -30,7 +30,7 @@ Please add a 👍 or other reaction to ideas that sound interesting and that you
 
 参加したいと思うアイディアがあれば、👍などのリアクションを付けてください。
 
-We will allocate the collected ideas to a timetable over two sessions: morning session.
+We will allocate the collected ideas to a timetable over morning session.
 
 朝会を中心に、アイディアをもとにタイムテーブルを構築していきます。
 
