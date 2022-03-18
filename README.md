@@ -1,76 +1,61 @@
-# 飛び入りカンファレンスとは
+# Welcome to ScalaMatsuri 2022 open-mic-conference repository!
 
-飛び入りカンファレンスとは、例年までアンカンファレンスという名称で行っていた形式のイベントです。  
-アンカンファレンスよりも、よりわかりやすい名前にしましょうということで今回は「飛び入りカンファレンス」という名前になりました。  
-また英語ではOpen Mic （オープンマイク）Conference という名前になります。  
-  
-内容の重複もありますがより詳しく知りたい方は以下の記事もご覧ください。  
-[ScalaMatsuriブログ：Scala Matsuri2022 2日目の飛び入りカンファレンス につきまして](https://blog.scalamatsuri.org/)  
-[ScalaMatsruiHP内：飛び入りカンファレンスとは？](https://scalamatsuri.org/ja/unconference/).   
-  
-# 飛び入りカンファレンスの進め方について
+Put your session ideas into [the issue list](https://github.com/scalamatsuri/2022.open-mic-conference/issues) for 2022.open-mic-conference!
 
-セッション、LTのアイディアを募集する[GItHubリポジトリ](https://github.com/scalamatsuri/2022.open-mic-conference/projects/1)を用意しております。  
-  
-このリポジトリの[GitHub issue](https://github.com/scalamatsuri/2022.open-mic-conference/issues)にあなたが発表したいセッションのアイディアをいつでも書いき込んでください。  
-内容は多少曖昧でも構いません。参加者巻き込み型のスタイルも大歓迎です。  
-  
-Issueはいつでも、今から書いてもらっても構いません。また、アイディアを見て参加したいと思ったら、GitHub reactionで投票してください。  
-飛び入りカンファレンス当日の朝会(2022-03-20 10:00 JST)では、これらのアイディアと投票をもとにセッションを決定しタイムテーブルを作り上げていきます。  
-(例年、タイムテーブルを決めるこのイベントを「朝会」と呼んでいます。)  
-  
-セッションの枠は仮の枠をLT(15分間)とセッション（30分間）設けてありますが、より短くても、長くても構いません。  
-前後の時間を調整して、飛び入りカンファレンスを進めて行ければと思っています。  
-  
-飛び入りカンファレンスのトラック以外にも、スポンサーのバーチャルブースも常設されています。休憩時間のコンテンツの一部はタイムテーブルにも掲載されていますので、ぜひ訪れてみてください。  
+セッションアイディアを[issue](https://github.com/scalamatsuri/2022.open-mic-conference/issues)として投稿してください！
 
-# 前回の内容の紹介
+## open-mic-conference? How it's going on?
 
-説明だけではイメージされづらいかと思いますので前回どのようなイベントになったのかかいつまんで紹介したいと思います。  
-  
-前回の二日目のタイムテーブル（一部）は以下のような内容でした。  
-[10/18 ScalaMatsuri 2020 Unconference Timetable · GitHub](https://github.com/scalamatsuri/2020.unconference/projects/1)  
-  
-![https://cdn-ak.f.st-hatena.com/images/fotolife/t/taketor/20220305/20220305013936.png](https://cdn-ak.f.st-hatena.com/images/fotolife/t/taketor/20220305/20220305013936.png)  
-  
-一部抜粋  
-  
-- 「みんなScala教育どうやってますか？事例共有など」  
-- 「Scala無双 実践編: AirframeとScala + Scala.jsでライブコーディング」  
-- 「Explanation roughly a CQRS/Event Sourcing system built by akka-typed / Akka-Typedによって構築された、リアクティブシステムを雑に解説する会」  
-- 「御社の独自 Scalafix ルール教えてください！」  
-- 「ひどいScalaコード選手権」  
-  
-座談会形式のものから、概念をわかりやすく解説する、各組織のルールやプラクティスや、「ひどいコード選手権」といった企画など幅広い内容でした。  
-予め話したい内容をしっかり書かれてもよいのですが、「私こんな話ができます」であったり、「ひどいコード選手権」といった企画など、ラフなアイディアでも歓迎です。  
-発表に興味がある方は、人に伝えたい話がある方は、発表したいセッション内容についてイシュー作ってください。  
-  
-# 参加者が興味があるセッションのカテゴリについて  
-  
-アイディア出しの参考として 今年のScalaMatsuriの参加者に「聞きたいセッションのカテゴリ」というアンケートを取り、集計しました。  
-集計結果はアンケート結果の活用を許可されている212名を対象に行っています。  
-  
-![https://cdn-ak.f.st-hatena.com/images/fotolife/t/taketor/20220304/20220304090841.png](https://cdn-ak.f.st-hatena.com/images/fotolife/t/taketor/20220304/20220304090841.png)  
-  
-![https://cdn-ak.f.st-hatena.com/images/fotolife/t/taketor/20220304/20220304090505.png](https://cdn-ak.f.st-hatena.com/images/fotolife/t/taketor/20220304/20220304090505.png)  
-  
-- 関数型プログラミング一般や圏論（45票）  
-- Software Design and Architecture（38票）  
-- Scala3（30票）  
-- 事例紹介（19票）  
-- Effect System (Cats Effect / Monix / ZIO / eff etc.)（19票）  
-- Big Data / Fast Data / Data Science（17票）  
-- Scala入門（13票）  
-- DevOps & Tools（7票）  
-- 組織関係（6票）  
-- エモい（1票）  
-  
-という集計結果で、関数型プログラミングの話（圏論やEffect Systemなど）や Software Design and Architecture、Scala3などは興味がある方が多いことがわかりました。  
-  
-ご参考にしてください。  
-  
-# 最後に  
-  
-このように飛び入りカンファレンスでは誰にでもギリギリまで発表できるチャンスがあります。  
-これまで発表の機会をうかがってこられた方などぜひ[Issue](https://github.com/scalamatsuri/2022.open-mic-conference/issues)をお書きください。  
+ScalaMatsuri Day 2 will be called an open mic conference and will be conducted in an unconference format.: registration begins at 9:30 a.m., morning session at 10:00 a.m. JST.
 
+ScalaMatsuri Day 2は飛び入りカンファレンスという名称のアンカンファレンス形式で実施します。受付は9時30分、朝会は10時 JSTからです。
+
+An Open Mic Conference is an event where participants bring their session ideas and work together to create a timetable on the day. Detailed instructions are available on the website.
+
+[ 3/20 Open Mic Conference Day](https://scalamatsuri.org/en/program#day2)
+
+飛び入りカンファレンスとは、セッションアイディアを持ち寄って、当日に一緒にタイムテーブルを作りあげるイベントです。詳細な解説はWebサイトを参照してください。
+
+[ 3/20 飛び入りカンファレンス Day](https://scalamatsuri.org/ja/program#day2)
+
+Create your session ideas as an issue in this GitHub repository!
+
+セッションアイディアをissueとして起票してください！
+
+It doesn't matter what form of idea you have, such as "I'd like to talk about this," "I'd like to discuss this," or "I'd love to hear about this".
+
+「こんな話をしたい」、「これについて議論したい」、「こんな話を聞きたい」など、アイディアのフォーマットはなんでもOKです。
+
+Please add a 👍 or other reaction to ideas that sound interesting and that you would love to participate in.
+
+参加したいと思うアイディアがあれば、👍などのリアクションを付けてください。
+
+We will allocate the collected ideas to a timetable over morning session.
+
+朝会を中心に、アイディアをもとにタイムテーブルを構築していきます。
+
+Tracks A and B will be conducted via Zoom Meeting. If we need more than that, we will open a new voice channel on Discord.
+There is no limit to the number of tracks, so please feel free to submit your ideas.
+
+Track AとBはZoom Meetingで実施します。もしそれ以上にトラックが必要であれば、Discordのボイスチャネルを作成して実施します。
+トラック数に制限はありません。たくさんのアイディアをお待ちしています。
+
+Please note simultaneous translation will not be provided for the Open Mic Conference.
+
+飛び入りカンファレンスでは、同時通訳は提供されないことにご注意ください。
+
+*Quated from [ScalaMatsuri 2022 guide](https://blog-en.scalamatsuri.org/entry/2022/03/17/132532)*
+*Quated from [ScalaMatsuri開催直前！](https://blog.scalamatsuri.org/entry/2022/03/16/155703)*
+
+# Issue labels:
+- `i wanna talk`: Session idea you want to give a talk about. / 自分が話したい場合のラベル
+- `discussion`: Session idea to discuss a certain topic. / 議論したい場合のラベル
+- `speaker wanted`: Session idea you want to hear. / 自分が聞きたい場合のラベル
+
+Since ScalaMatsuri staffs and some of participants can manage label, please clarify which kind of session ideas you raised.
+
+ScalaMatsuriスタッフや一部参加者はラベル管理権限を持っていますので、本文中でどのタイプのセッションアイディアなのか判別可能にしてくれると助かります。
+
+- Reference
+    - [About open mic conference](https://blog-en.scalamatsuri.org/entry/2022/03/08/122059)
+    - [Scala Matsuri2022 2日目の飛び入りカンファレンス につきまして](https://blog.scalamatsuri.org/entry/2022/03/05/205452)
